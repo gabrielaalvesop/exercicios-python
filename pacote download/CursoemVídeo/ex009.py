@@ -1,0 +1,8 @@
+n=int(input("Digite um número para ver a tabuada:"))
+print("-"*12)
+print(f"{n} X{1:2}={n*1}")
+print(f"{n} X{2:2}={n*2}")
+print(f"{n} X{3:2}={n*3}")
+print(f"{n} X{4:2}={n*4}")
+print(f"{n} X{5:2}={n*5}")
+print("-"*12)

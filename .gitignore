@@ -179,3 +179,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+pacote download/CursoemVídeo/.idea/CursoemVídeo.iml
+pacote download/CursoemVídeo/.idea/inspectionProfiles/profiles_settings.xml
+pacote download/CursoemVídeo/.idea/misc.xml
+pacote download/CursoemVídeo/.idea/modules.xml

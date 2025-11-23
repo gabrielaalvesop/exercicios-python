@@ -1,0 +1,11 @@
+n=str(input("digite um valor:"))
+print(n)
+n=bool(input("digite um valor:"))
+print(n)
+n=float(input("digite um valor:"))
+print(n)
+n=int(input("digite um valor:"))
+print(n)
+
+n=input("digite algo:")
+print(n.isnumeric())

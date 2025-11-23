@@ -1,0 +1,6 @@
+d=int(input("Quantos dias o carro foi alugado?"))
+km=float(input("Quantos Km foram rodados? Km "))
+valor_dia=float(d*60.00)
+vkm=float(km*0.15)
+t=float(valor_dia+vkm)
+print(f"O preço total dos dias foi de R${valor_dia:.2f}, o valor do KM rodado foi de R${vkm:.2f}, e o preço a pagar é de R${t:.2f}")
